@@ -4,4 +4,5 @@ class{
 	String y = "Sqaure of 4 is:"
 	System.out.println(y+" "+x);
 	System.out.println("hellooooo");
+	System.out.println("hellooooo");
 }
